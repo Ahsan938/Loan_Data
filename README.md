@@ -1,1 +1,2 @@
 # Loan_Data
+To ensure profitability, a digital lender must not only establish a data acquisition strategy for credit modeling but also develop analytical models for informed lending decisions and ongoing financial monitoring of clients. This report aims to construct a lending decision model for digital lenders based on acquired client data. Our hypothesis asserts that, leveraging loan history and credit records, the lender can predict the likelihood of non-full payment by a client.
